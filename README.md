@@ -1,7 +1,29 @@
 # Zat Wallpapers
 These are just some cool images that you can use as awesome wallpapers I found on the internet.
 
-# Previews ( these are thumbnail previews )
+# Previews
+> **( these are THUMBNAILS only - see `wallpapers/` for full size )**
+
+### `yellow-car-beach.png`
+![image](https://user-images.githubusercontent.com/38140593/153996097-b8048273-f4a4-4ae8-9d30-df52508277e0.png)
+<hr>
+
+### `yellow-house-1980.jpg`
+![image](https://user-images.githubusercontent.com/38140593/153996134-53161f0a-188a-4879-971d-d3046dec1403.png)
+<hr>
+
+### `unsteady-building.png`
+![image](https://user-images.githubusercontent.com/38140593/153996167-97191c82-ce6d-4b59-9c0a-4e60f5d93427.png)
+<hr>
+
+### `pool-side.png`
+![image](https://user-images.githubusercontent.com/38140593/153996209-ff0dfdea-f772-467b-ba00-59283591de69.png)
+
+<hr>
+### `pool-side-alt.png`
+![image](https://user-images.githubusercontent.com/38140593/153996238-4e01021a-791f-4b83-a786-f62c3ac99554.png)
+
+
 ### `astronaut-planet.jpg` 
 ![image](https://user-images.githubusercontent.com/38140593/151673062-1b3278bf-6c60-469b-b27f-fa58f23da345.png)
 <hr>
