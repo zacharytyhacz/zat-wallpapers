@@ -18,11 +18,19 @@ These are just some cool images that you can use as awesome wallpapers I found o
 
 ### `pool-side.png`
 ![image](https://user-images.githubusercontent.com/38140593/153996209-ff0dfdea-f772-467b-ba00-59283591de69.png)
-
 <hr>
+
 ### `pool-side-alt.png`
 ![image](https://user-images.githubusercontent.com/38140593/153996238-4e01021a-791f-4b83-a786-f62c3ac99554.png)
+<hr>
 
+### `cool-mountains.jpg`
+![image](https://user-images.githubusercontent.com/38140593/153996899-65021447-6a2c-4aaa-aee2-733e26ebdc92.png)
+<hr>
+
+### `sunset-city-water.jpg`
+![image](https://user-images.githubusercontent.com/38140593/153996978-80843593-d2db-4952-8f35-59aeadf0837f.png)
+<hr>
 
 ### `astronaut-planet.jpg` 
 ![image](https://user-images.githubusercontent.com/38140593/151673062-1b3278bf-6c60-469b-b27f-fa58f23da345.png)
