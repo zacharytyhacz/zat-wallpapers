@@ -4,6 +4,34 @@ These are just some cool images that you can use as awesome wallpapers I found o
 # Previews
 > **( these are THUMBNAILS only - see `wallpapers/` for full size )**
 
+### `pixelated-cockpit.gif`
+![image](https://user-images.githubusercontent.com/38140593/169727436-d6bb17d2-8ae1-4d06-b9b8-dc7aefc7e2ec.png)
+<hr>
+
+### `pixelated-anime-roofs.jpg`
+![image](https://user-images.githubusercontent.com/38140593/169727161-ac4cfc0c-a91b-44dd-b45f-b45dedc3fdae.png)
+<hr>
+
+### `pixelated-city-nightscape.jpg`
+![image](https://user-images.githubusercontent.com/38140593/169727201-c0768072-76cb-4a0a-b0a9-339da15eea72.png)
+<hr>
+
+### `pixelated-familiar-city.jpg`
+![image](https://user-images.githubusercontent.com/38140593/169727240-7bea3682-0f49-48fe-9e2b-a4949b3390ae.png)
+<hr>
+
+### `pixelated-mountains-lake.jpg`
+![image](https://user-images.githubusercontent.com/38140593/169727272-bae2c529-e744-4672-8397-f16b677d8f86.png)
+<hr>
+
+### `pixelated_house.jpg`
+![image](https://user-images.githubusercontent.com/38140593/169727326-75dc5359-59c2-4d14-9d03-1f3569a072b3.png)
+<hr>
+
+### `sunset-city.png`
+![image](https://user-images.githubusercontent.com/38140593/169727397-ffffdca2-9520-466a-919c-d81a3ee4949a.png)
+<hr>
+
 ### `yellow-car-beach.png`
 ![image](https://user-images.githubusercontent.com/38140593/153996097-b8048273-f4a4-4ae8-9d30-df52508277e0.png)
 <hr>
