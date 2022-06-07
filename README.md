@@ -4,6 +4,56 @@ These are just some cool images that you can use as awesome wallpapers I found o
 # Previews
 > **( these are THUMBNAILS only - see `wallpapers/` for full size )**
 
+### `pixelated-retro-room.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172490166-2e63c0ba-5f67-4df8-a2b3-fb40bfcf1b37.png)
+<hr>
+
+### `pixelated-midnight-drive2.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172490124-a4dedf99-691b-4f90-90e7-88d87af353cb.png)
+<hr>
+
+### `pixelated-midnight-drive.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172490086-d90e1831-f1b9-4e3c-beaa-28f97233dc90.png)
+<hr>
+
+### `pixelated-green-car.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172490044-fa65bf4f-e030-462e-b21a-87d4eb3dd540.png)
+
+
+### `pixelated-fire-city.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172490005-7091d4c7-5a15-4bde-a953-ad516bf35d30.png)
+<hr>
+
+### `pixelated-daily-bugle.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172489973-a02d3963-23d6-44b2-a6dc-ec429163b34d.png)
+<hr>
+
+### `pixelated-cloudy-city.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172489930-98513692-f96e-4d59-9c39-76ccb6d2d2ba.png)
+<hr>
+
+### `pixelated-city-view.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172489866-1b1a24e3-51a1-4e3c-bd12-40bad6a8666a.png)
+<hr>
+
+### `pixelated-city-plane.jpeg`
+
+![image](https://user-images.githubusercontent.com/38140593/172489813-a669fcfb-64fb-43c1-8638-1c322eb2ec93.png)
+<hr>
+
+### `pixelated-city-center.jpg`
+![image](https://user-images.githubusercontent.com/38140593/172489775-d265515d-b3db-4814-81af-6a1e87ca60d1.png)
+
+<hr>
+
+### `pixelated-childhood-room.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172489716-2f42778a-e35c-4d49-b7ef-bd9703e0a3dc.png)
+<hr>
+
+### `car-edge-of-water.jpeg`
+![image](https://user-images.githubusercontent.com/38140593/172489695-85e424e5-bab6-40b0-98db-7e3ee85e0697.png)
+<hr>
+
 ### `pixelated-cockpit.gif`
 ![image](https://user-images.githubusercontent.com/38140593/169727436-d6bb17d2-8ae1-4d06-b9b8-dc7aefc7e2ec.png)
 <hr>
