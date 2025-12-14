@@ -1,0 +1,28 @@
+{
+  "name": "zat-wallpapers",
+  "version": "1.0.0",
+  "description": "These are just some cool images that you can use as awesome wallpapers I found on the internet.",
+  "homepage": "https://github.com/zacharytyhacz/zat-wallpapers#readme",
+  "scripts": {
+    "generate": "tsx ./generate-thumbnails.ts"
+  },
+  "bugs": {
+    "url": "https://github.com/zacharytyhacz/zat-wallpapers/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharytyhacz/zat-wallpapers.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.2",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
